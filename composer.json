@@ -1,0 +1,10 @@
+{
+    "name": "nasajon/php-itaucripto",
+    "license": "MIT",
+    "type": "project",
+    "description": "Versão em PHP da classe Itaucripto, originalmente escrita em Java.",
+    "target-dir": "Nasajon/PhpItaucripto",    
+    "require": {
+        "php": ">=5.3.9"
+    }    
+}
